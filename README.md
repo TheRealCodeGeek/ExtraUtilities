@@ -16,7 +16,7 @@ To use the Extra Utilities module, you have to do the following things:
   <li>At the top of the file, use the following command: <code>import eu</code></li>
 </ol>
 
-And there you go! You succesfully imported the module into your Python file!
+<p>And there you go! You succesfully imported the module into your Python file!</p>
 ----------------------------------------------------------------------------------------------------------
 # A list of commands:
 <code>eu.clear()</code> This command doesn't take any parameters. It clears out the whole area.
