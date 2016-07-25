@@ -6,7 +6,7 @@ To import this module, use:
 
 ----------------------------------------------------------------------------------------------------------
 
-A list of commands:
+# A list of commands:
 
 <code>eu.clear()</code> This command doesn't take any parameters. It clears out the whole area.
 
