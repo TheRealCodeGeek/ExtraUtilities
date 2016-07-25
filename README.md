@@ -17,6 +17,7 @@ To use the Extra Utilities module, you have to do the following things:
 </ol>
 
 And there you go! You succesfully imported the module into your Python file!
+
 For a list of commands, go to the wiki.
 
 ----------------------------------------------------------------------------------------------------------
