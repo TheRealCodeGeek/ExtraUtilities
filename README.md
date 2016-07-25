@@ -2,9 +2,9 @@
 This is a module for the Python programming language.
 
 To import this module, use:
-
 <code>import eu</code>
 
+----------------------------------------------------------------------------------------------------------
 
 A list of commands:
 
